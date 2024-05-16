@@ -4,8 +4,6 @@ This is a book created from markdown and executable code.
 
 Hello git, this is my amazing book!
 
-```         
-```
 
 Hoi ik ben dropdadd :) :) :)
 
